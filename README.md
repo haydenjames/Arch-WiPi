@@ -13,7 +13,7 @@ Turn your Raspberry Pi into a wireless router/AP. Arch-WiPi is a tiny [Arch Linu
 
 ## Installation
 
-* Download my Arch Linux Wireless Raspberry Pi image: [archwipi.img.tar.gz](http://haydenjames.io/archwipi.img.tar.gz)
+* Download my Arch Linux Wireless Raspberry Pi image: [Download](http://haydenjames.io/download-arch-linux-raspberry-pi-wifi-access-point-setup/)
 * Extract it. eg:  sudo tar zxf archwipi.img.tar.gz
 * Write the extracted image to your SD card. eg: sudo dd if=archwipi.img of=/dev/sdb …change sdb if necessary. Don’t run    this command if unsure!!!
 * Optional – extend partition to use all of disk. You can use gparted.
