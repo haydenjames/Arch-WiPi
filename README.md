@@ -8,7 +8,7 @@ Turn your Raspberry Pi into a wireless router/AP. Arch-WiPi is a tiny [Arch Linu
 * Raspberry Pi Model B Revision 2.0
 * Power adapter with at least 1500 mA (2 amp recommended)
 * Fat32 formated 1GB SD Card (2GB Recommended)
-* Wifi USB dongle running rtl871xdrv. Eg. Edimax EW-7811Un. (I just ordered and recommend this one)
+* Wifi USB dongle running rtl871xdrv. Eg. Edimax EW-7811Un.
 * Network Cable with Internet access. (eg. Internet cable from your cable modem)
 
 ## Installation
