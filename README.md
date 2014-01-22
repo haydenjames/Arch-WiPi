@@ -1,7 +1,7 @@
 Arch-WiPi
 =========
 
-Turn your Raspberry Pi into a wireless router/AP. Arch-WiPi is a tiny [Arch Linux ARM](http://archlinuxarm.org/) + [create_ap](https://github.com/oblique/create_ap) based setup, packaged into a downloadable image.
+Turn your Raspberry Pi into a wireless router/AP. Arch-WiPi is a tiny [Arch Linux ARM](http://archlinuxarm.org/) + [create_ap](https://github.com/oblique/create_ap) based setup, packaged into a downloadable image. Once booted the access point will create SSID "ArchWiPI" via network address translation (NAT).
 
 ## Requirements
 
