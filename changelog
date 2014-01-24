@@ -1,0 +1,4 @@
+* 01-24-2014 - Stripped down and optimized Arch OS even more. Boots in less than 10 seconds.
+* 01-24-2014 - Updated overclocking config with improvements /boot/config.txt
+* 01-23-2014 - Installed bcmstat.sh to replace cpustatus.sh see usage below
+* 01-23-2014 - Changed root login password for Pi to: archlinux
