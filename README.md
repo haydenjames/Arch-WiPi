@@ -24,4 +24,4 @@ Turn your Raspberry Pi into a wireless router/AP. Once booted the access point w
 * You can change the WiFi password to what ever you like by editing: /usr/lib/systemd/system/create_ap.service
 * Check the CPU clock speed and temperature using ./cpustatus.sh or browse to this address 192.168.12.1:8080/archwipi       (powered by Monitorix) Example from my stats page…
 
-[Blog post: haydenjames.io](http://haydenjames.io/download-arch-linux-raspberry-pi-wifi-access-point-setup/)
+[Official project page -> haydenjames.io](http://haydenjames.io/download-arch-linux-raspberry-pi-wifi-access-point-setup/)
